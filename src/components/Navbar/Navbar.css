@@ -2,7 +2,8 @@
 .navbar{
     height: 5rem;
     width: 100%;
-    margin: 0 2rem;
+    max-width: 90%;
+    margin: 0 auto;
     display: flex;
     align-items: center;
     padding: 1rem 2rem;
@@ -52,7 +53,7 @@
 .mobMenu{
     display: none;
     font-size: 4rem;
-    
+    margin-right: 1rem;
 }
 .navMenu{
     position: absolute;

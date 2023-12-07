@@ -18,13 +18,13 @@
 .skillDiscription{
     font-size: 1.05rem;
     font-weight: 200;
-    max-width: 43rem;
+    max-width: 70%;
     margin: 0 2.5rem;
     line-height: 25px;
 }
 
 .skillsBars{
-    margin: 1.5rem;
+    margin: 1.5rem 2rem;
     width: 100vw;
     max-width: 80%;
     text-align: left;

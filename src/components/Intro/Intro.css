@@ -2,9 +2,8 @@
     height: calc(100vh - 4rem);
     width: 100vw;
     max-width: 90%;
-    margin: 0 auto;
     overflow: hidden;
-    
+    margin: 0 auto;
     position: relative;
 }
 .bg{
@@ -16,8 +15,6 @@
     height: 80vh;
     width: 400px;
     border-radius: 36px;
-    margin: 0 2rem;
-    
 }
 .introContent{
     height: 100vh;
@@ -68,11 +65,15 @@
    .hello{
     font-size: 4.5vw;
    }
+   .bg{
+    filter: brightness(60%);
+    }
 }
 @media screen and (max-width:480px){
     .bg{
         width: 80%;
         margin-right: 2rem;
         height: 70vh;
+        filter: brightness(60%);
        } 
 }

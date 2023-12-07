@@ -17,7 +17,7 @@
 .clientsDesc{
     font-weight: 300;
     font-size: 1rem;
-    max-width: 45rem;
+    max-width: 42rem;
     text-align: center;
     margin: 0 2.5rem;
 }
@@ -70,7 +70,7 @@
     font-size: medium;
     width: 100%;
     max-width: 40rem;
-    margin: 0.5rem;
+    margin: 0.5rem 2rem;
     padding: 0.5rem 1rem;
     color: white;
     border: none;
@@ -78,6 +78,7 @@
     border: 0.5px solid lightgray;
     background: rgb(40, 40, 40);
     border-radius: 8px;
+    
 }
 .submitBtn{
     background-color: #fff;
